@@ -34,6 +34,9 @@ section{
     padding-bottom: 10vh;
 
 }
+section>p{
+    padding-bottom: 2em;
+}
 section.normal{
     background-color: white;
     color: black;
@@ -45,6 +48,14 @@ section.imagem{
 section.imagem>p {
     width: 400px;
     background-color: rgba(43, 43, 43, 0.479);
+}
+section#img01 {
+    background-image: url(../imagens/background001.jpg);
+    background-image:url(../imagens/background001.jpg);
+
+}
+section#img02 {
+    background-image: url(../imagens/background002.jpg);
 }
 footer{
     background-color: black;
