@@ -18,6 +18,8 @@ header >h1{
 }
 header> p{
     padding-bottom: 50px;
+    
+
    
 }
 header a , footer a {
@@ -43,16 +45,16 @@ section.normal{
     color: black;
 }
 section.imagem{
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-color: rgb(104, 104, 104);
+    color: rgb(0, 0, 0);
     box-shadow: inset 6px 6px 13px 0 rgba(0, 0, 0, 0.507);
     background-attachment: fixed;
 }
 section.imagem>p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(255, 255, 255, 0.5);
-    text-shadow: 1px 1px 0px;
+    background-color: rgba(255, 255, 255, 0.205);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.233);
 }
 section#img01 {
 
